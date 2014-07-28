@@ -199,6 +199,10 @@ blockquote {
   float: right;
   font-size: .8em;
 }
+#log-list .header {
+  font-size:  30px;
+  margin-top: 1cm;
+}
 /*
  * Contact Styles
  */
@@ -272,7 +276,7 @@ blockquote {
 }
 
 /*
- * Re´sume´ Styles
+ * Reï¿½sumeï¿½ Styles
  */
 #resume .section {
   clear:   both;
