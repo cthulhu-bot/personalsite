@@ -15,4 +15,8 @@ object Application extends Controller {
     Ok(views.html.log("Web Log index page"))
   }
 
+  def one = Action {
+    Ok(views.html.one("Web log 1"))
+  }
+
 }
